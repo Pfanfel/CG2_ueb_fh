@@ -1,6 +1,6 @@
 # Computergafik 2 Übung
 
-Zur erstellung wurde C99 zusammen mit openGl verwendet. 
+Zur Erstellung wurde C99 zusammen mit OpenGL verwendet.
 
 Die Details der Übung sind auf der internen Seite des Übungsleiters [Lars Neuman](https://intern.fh-wedel.de/mitarbeiter/ne/praktikum-geometrische-modellierung-und-computeranimation/) zu finden:
 
