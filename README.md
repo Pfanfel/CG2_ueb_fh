@@ -1,10 +1,9 @@
-# CG2_ueb_fh
+# Computergafik 2 Übung
 
-Computergafik 2 Übung an der FH Wedel (WS20/21)
+Zur erstellung wurde C99 zusammen mit openGl verwendet. 
 
-Die Details der Übung sind auf der FH Wedel Seite von Lars Neuman zu finden:
+Die Details der Übung sind auf der internen Seite des Übungsleiters [Lars Neuman](https://intern.fh-wedel.de/mitarbeiter/ne/praktikum-geometrische-modellierung-und-computeranimation/) zu finden:
 
-<https://intern.fh-wedel.de/mitarbeiter/ne/praktikum-geometrische-modellierung-und-computeranimation/>
 
 ## Programme ausführen
 
